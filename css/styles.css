@@ -1,0 +1,26 @@
+.connexion {
+    margin: 10px;
+}
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin:0;
+}
+
+.modal_footer {
+    margin: 15px;
+    text-align: right;
+}
+
+.inscription_button {
+    text-align: center;
+}
+
+.inscription {
+    margin: 50px;
+}
